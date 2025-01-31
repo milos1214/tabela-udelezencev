@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "KP1YhG/cw0nmfOAvzfml26RcHzBeXjAApuFhPGdfIoo=",
+  "Source": "Api",
+  "BasePath": "_content/Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api\\wwwroot",
+      "Source": "Api",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\9dbdfks8j9-o06kxh3m6g.gz",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "style#[.{fingerprint=o06kxh3m6g}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "k214lf41cs",
+      "Integrity": "bC+DxazNr/YF7IDJFqKgAg+HPuM6pQwuP4swt8DaRTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\kcvh5ogzat-g25e0gmdek.gz",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "script#[.{fingerprint=g25e0gmdek}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lhwqmb1k68",
+      "Integrity": "+Rg+nJtFm79A/eqYkvVcZrRkjfN1ahgVPqHwIPf3GTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\y67e8agija-mbenffkzjp.gz",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "index#[.{fingerprint=mbenffkzjp}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z8dk4ayt6i",
+      "Integrity": "E8z6sKSPVERzXmReeE2KPKFKNG2ZgEw5+1YjovqLhRo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\index.html",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mbenffkzjp",
+      "Integrity": "QrMHfVLxZqhm7SP/wG63tQ+bmpV54kyJULWy0V7mLUU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\script.js",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g25e0gmdek",
+      "Integrity": "2A7ZgE4FX++1K1VrKibyNddnQS023GTBZxxi13sZTfE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\style.css",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o06kxh3m6g",
+      "Integrity": "eLAdxlKmJEd881mMBCi1NgqfbLnWD35fHuGqpJb9v70=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\y67e8agija-mbenffkzjp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001569858713"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "636"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E8z6sKSPVERzXmReeE2KPKFKNG2ZgEw5+1YjovqLhRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:32:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QrMHfVLxZqhm7SP/wG63tQ+bmpV54kyJULWy0V7mLUU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QrMHfVLxZqhm7SP/wG63tQ+bmpV54kyJULWy0V7mLUU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QrMHfVLxZqhm7SP/wG63tQ+bmpV54kyJULWy0V7mLUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:32:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QrMHfVLxZqhm7SP/wG63tQ+bmpV54kyJULWy0V7mLUU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\y67e8agija-mbenffkzjp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E8z6sKSPVERzXmReeE2KPKFKNG2ZgEw5+1YjovqLhRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:32:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E8z6sKSPVERzXmReeE2KPKFKNG2ZgEw5+1YjovqLhRo="
+        }
+      ]
+    },
+    {
+      "Route": "index.mbenffkzjp.html",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\y67e8agija-mbenffkzjp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001569858713"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "636"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E8z6sKSPVERzXmReeE2KPKFKNG2ZgEw5+1YjovqLhRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:32:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QrMHfVLxZqhm7SP/wG63tQ+bmpV54kyJULWy0V7mLUU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mbenffkzjp"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QrMHfVLxZqhm7SP/wG63tQ+bmpV54kyJULWy0V7mLUU="
+        }
+      ]
+    },
+    {
+      "Route": "index.mbenffkzjp.html",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QrMHfVLxZqhm7SP/wG63tQ+bmpV54kyJULWy0V7mLUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:32:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mbenffkzjp"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QrMHfVLxZqhm7SP/wG63tQ+bmpV54kyJULWy0V7mLUU="
+        }
+      ]
+    },
+    {
+      "Route": "index.mbenffkzjp.html.gz",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\y67e8agija-mbenffkzjp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E8z6sKSPVERzXmReeE2KPKFKNG2ZgEw5+1YjovqLhRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:32:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mbenffkzjp"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E8z6sKSPVERzXmReeE2KPKFKNG2ZgEw5+1YjovqLhRo="
+        }
+      ]
+    },
+    {
+      "Route": "script.g25e0gmdek.js",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\kcvh5ogzat-g25e0gmdek.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001100110011"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "908"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Rg+nJtFm79A/eqYkvVcZrRkjfN1ahgVPqHwIPf3GTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:25:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2A7ZgE4FX++1K1VrKibyNddnQS023GTBZxxi13sZTfE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g25e0gmdek"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2A7ZgE4FX++1K1VrKibyNddnQS023GTBZxxi13sZTfE="
+        }
+      ]
+    },
+    {
+      "Route": "script.g25e0gmdek.js",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2A7ZgE4FX++1K1VrKibyNddnQS023GTBZxxi13sZTfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:25:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g25e0gmdek"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2A7ZgE4FX++1K1VrKibyNddnQS023GTBZxxi13sZTfE="
+        }
+      ]
+    },
+    {
+      "Route": "script.g25e0gmdek.js.gz",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\kcvh5ogzat-g25e0gmdek.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Rg+nJtFm79A/eqYkvVcZrRkjfN1ahgVPqHwIPf3GTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:25:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g25e0gmdek"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Rg+nJtFm79A/eqYkvVcZrRkjfN1ahgVPqHwIPf3GTI="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\kcvh5ogzat-g25e0gmdek.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001100110011"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "908"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Rg+nJtFm79A/eqYkvVcZrRkjfN1ahgVPqHwIPf3GTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:25:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2A7ZgE4FX++1K1VrKibyNddnQS023GTBZxxi13sZTfE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2A7ZgE4FX++1K1VrKibyNddnQS023GTBZxxi13sZTfE="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2A7ZgE4FX++1K1VrKibyNddnQS023GTBZxxi13sZTfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:25:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2A7ZgE4FX++1K1VrKibyNddnQS023GTBZxxi13sZTfE="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\kcvh5ogzat-g25e0gmdek.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Rg+nJtFm79A/eqYkvVcZrRkjfN1ahgVPqHwIPf3GTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:25:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Rg+nJtFm79A/eqYkvVcZrRkjfN1ahgVPqHwIPf3GTI="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\9dbdfks8j9-o06kxh3m6g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001766784452"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "565"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bC+DxazNr/YF7IDJFqKgAg+HPuM6pQwuP4swt8DaRTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eLAdxlKmJEd881mMBCi1NgqfbLnWD35fHuGqpJb9v70=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eLAdxlKmJEd881mMBCi1NgqfbLnWD35fHuGqpJb9v70="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eLAdxlKmJEd881mMBCi1NgqfbLnWD35fHuGqpJb9v70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eLAdxlKmJEd881mMBCi1NgqfbLnWD35fHuGqpJb9v70="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\9dbdfks8j9-o06kxh3m6g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "565"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bC+DxazNr/YF7IDJFqKgAg+HPuM6pQwuP4swt8DaRTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bC+DxazNr/YF7IDJFqKgAg+HPuM6pQwuP4swt8DaRTA="
+        }
+      ]
+    },
+    {
+      "Route": "style.o06kxh3m6g.css",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\9dbdfks8j9-o06kxh3m6g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001766784452"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "565"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bC+DxazNr/YF7IDJFqKgAg+HPuM6pQwuP4swt8DaRTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eLAdxlKmJEd881mMBCi1NgqfbLnWD35fHuGqpJb9v70=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o06kxh3m6g"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eLAdxlKmJEd881mMBCi1NgqfbLnWD35fHuGqpJb9v70="
+        }
+      ]
+    },
+    {
+      "Route": "style.o06kxh3m6g.css",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eLAdxlKmJEd881mMBCi1NgqfbLnWD35fHuGqpJb9v70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o06kxh3m6g"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eLAdxlKmJEd881mMBCi1NgqfbLnWD35fHuGqpJb9v70="
+        }
+      ]
+    },
+    {
+      "Route": "style.o06kxh3m6g.css.gz",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\Projekt\\Api\\obj\\Debug\\net9.0\\compressed\\9dbdfks8j9-o06kxh3m6g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "565"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bC+DxazNr/YF7IDJFqKgAg+HPuM6pQwuP4swt8DaRTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o06kxh3m6g"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bC+DxazNr/YF7IDJFqKgAg+HPuM6pQwuP4swt8DaRTA="
+        }
+      ]
+    }
+  ]
+}

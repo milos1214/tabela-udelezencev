@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AJAX JSON Primer</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <form>
+        <div class="left">
+            <input type="text" id="id" placeholder="ID">
+            <input type="text" id="ime" placeholder="Ime">
+            <input type="text" id="priimek" placeholder="Priimek">
+            <input type="number" id="starost" placeholder="Starost" min="18" max="100">
+            <label for="Naziv">Naziv tecaja:</label>
+            <select id="naziv" name="naziv" placeholder="Naziv tecaja">
+                <option value="UI/UX Design">UI/UX Design</option>
+                <option value="Web Development">Web Development</option>
+                <option value="AI">AI</option>
+            </select>
+            <label for="Raven">Raven tecaja:</label>
+            <select id="raven" name="raven" placeholder="Raven tecaja">
+                <option value="Zacetna">Zacetna</option>
+                <option value="Srednja">Srednja</option>
+                <option value="Napredna">Napredna</option>
+            </select>
+        </div>
+        
+        <div class="right">
+            <button onclick="dodajLokalno(event)">Lokalno</button>
+            <button onclick="obrisiLokalno(event)">Obrisi Lokalno</button>
+            <button onclick="dodajNaStreznik(event)">Na streznik</button>
+        </div>
+    </form>
+    
+    <table id="data-table">
+        <tr>
+            <th>ID</th>
+            <th>Ime</th>
+            <th>Priimek</th>
+            <th>Starost</th>
+            <th>Naziv tecaja</th>
+            <th>Raven tecaja</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Janez</td>
+            <td>Novak</td>
+            <td>25</td>
+            <td>AI</td>
+            <td>Zacetna</td>
+        </tr>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>
