@@ -1,3 +1,7 @@
+# Tabela udelezencev
+
+Projekt prikazuje znanje backend orodja z c#
+
 # Navodila za zagon strežnika
 
 ## Za zagon strežnika sledite spodnjim korakom
